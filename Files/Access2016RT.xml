@@ -1,0 +1,4 @@
+<Configuration Product="AccessRT">
+	<Display Level="none" CompletionNotice="No" SuppressModal="Yes" AcceptEula="Yes" />
+	<Setting Id="SETUP_REBOOT" Value="NEVER" />
+</Configuration>
